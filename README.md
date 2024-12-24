@@ -1,0 +1,1 @@
+This python code tells us the fibonacci number at given nth place
